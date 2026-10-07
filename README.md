@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ali Kassem 👋
 
-<!--
-**alikassem877/alikassem877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Engineer and Full-Stack Developer focused on building practical web applications and backend systems.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C#, TypeScript, JavaScript, SQL
+- **Frontend:** React, Next.js
+- **Backend:** ASP.NET Core, Next.js
+- **Databases:** PostgreSQL
+- **Tools:** Git, GitHub, Docker, Prisma
+
+## Featured Projects
+
+### Dealer SaaS
+Multi-tenant automotive dealership management platform built with Next.js, TypeScript, PostgreSQL, and Prisma.
+
+### Baytak Care
+Remote property monitoring platform developed as part of the TechTalks Software Engineering Internship.
+
+### BankSystem
+Banking system backend built with ASP.NET Core using a layered architecture.
+
+## Connect
+
+- [Portfolio](https://alikassem877.github.io/my-portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/alikassem877/)
